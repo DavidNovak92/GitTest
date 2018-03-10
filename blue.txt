@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7014-2695
+
+ Directory of C:\Users\David\Desktop\SFJ_GIT
+
+2018. 03. 11.  00:14    <DIR>          .
+2018. 03. 11.  00:14    <DIR>          ..
+2018. 03. 11.  00:14                 0 blue.txt
+2018. 03. 11.  00:14               394 red.txt
+2018. 03. 09.  16:15                 0 teszt.txt
+               3 File(s)            394 bytes
+               2 Dir(s)  53ÿ257ÿ314ÿ304 bytes free
